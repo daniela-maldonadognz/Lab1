@@ -1,4 +1,4 @@
-/* Estilos para aplicaciones auxiliares de validación
+/* Estilos para aplicaciones auxiliares de validaciï¿½n
 -----------------------------------------------------------*/
 .field-validation-error
 {
@@ -25,4 +25,15 @@
 .validation-summary-valid
 {
     display: none;
+}
+
+fieldset label
+{
+    display:block
+}
+
+fieldset input
+{
+    display:block;
+    margin-bottom: 5px;    
 }
